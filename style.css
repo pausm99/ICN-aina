@@ -1,0 +1,25 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#contenedor {
+    margin: auto;
+    padding: 50px;
+}
+
+#lista {
+    list-style: none;
+    display: block;  /* Remove bullet points; allow greater control of positioning */
+    padding: 0;      /* Override defaults for lists */
+    margin: 0;       /* Override defaults for lists */
+    width: 100%;     /* Get the row full width */
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
